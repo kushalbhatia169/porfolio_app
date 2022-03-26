@@ -8404,8 +8404,7 @@ h1, h2, h3, h4, h5,
     width: 50%;
     background: #3e64ff; }
   .hero-wrap .text {
-    width: 100%;
-    overflow-y: scroll; }
+    width: 100%; }
 
 .slider-text .subheading {
   text-transform: uppercase;
