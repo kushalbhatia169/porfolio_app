@@ -9704,3 +9704,14 @@ textarea.form-control {
   background-color: #37c1aa;
   border-color: #d0e9c6; /* Alert box border colour */
 }
+
+.about-list {
+  marker-start: none;
+}
+.about-list li::marker {
+  color: #3e64ff;
+  /* content: ". "; */
+  font-size: 18px;
+  font-weight: 500;
+  padding-right: 8px;
+}
